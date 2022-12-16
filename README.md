@@ -13,7 +13,7 @@ Este código define la clase `Student`, que representa a un alumno y su nota. La
 
 Ejemplo de uso:
 
-`
+~~~
 # Crea dos instancias de la clase Student
 alumno1 = Student()
 alumno2 = Student()
@@ -25,6 +25,6 @@ alumno1.result()
 # Imprime el nombre y la nota del segundo alumno, y su resultado
 alumno2.to_print()
 alumno2.result()
-`
+~~~
 
 README.md y documentación del proyecto creada en equipo con ChatGPT 💚
